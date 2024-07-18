@@ -1,0 +1,2 @@
+
+    analyzer.max_region()
